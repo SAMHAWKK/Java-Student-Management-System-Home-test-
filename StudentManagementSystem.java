@@ -93,7 +93,7 @@ public class StudentManagementSystem {
         }
     }
 
-    // TEXT FILE
+    
 
     public void saveTextFile() {
 
@@ -147,7 +147,7 @@ public class StudentManagementSystem {
         }
     }
 
-    // BINARY FILE
+    
 
     public void saveBinaryFile() {
 
@@ -201,7 +201,7 @@ public class StudentManagementSystem {
         }
     }
 
-    // SERIALIZATION
+    
 
     public void saveSerializedFile() {
 
@@ -235,7 +235,7 @@ public class StudentManagementSystem {
         }
     }
 
-    // REPORT
+    
 
     public void generateReport() {
 
@@ -288,7 +288,7 @@ public class StudentManagementSystem {
         );
     }
 
-    // FILE PROPERTIES
+    
 
     public void fileProperties() {
 
@@ -307,7 +307,7 @@ public class StudentManagementSystem {
                 + new Date(file.lastModified()));
     }
 
-    // BACKUP
+    
 
     public void createBackup() {
 
